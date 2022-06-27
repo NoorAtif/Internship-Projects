@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+}
+/* .container-fluid {
+    padding: 0;
+    margin: 0;
+} */
+
+.section1 {
+    background-color: #E9ECEF;
+}
+
+.section2 .border {
+    border: 1px solid #E9ECEF;
+    margin-bottom: 20px;
+}
+
+.section2 a {
+    color: #000;
+    text-decoration: none;
+}

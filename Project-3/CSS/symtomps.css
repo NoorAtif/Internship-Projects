@@ -1,0 +1,19 @@
+.section1 a{
+    color: grey;
+}
+
+.section1 {
+    background-color: #E9ECEF;
+}
+
+.parta, .partb {
+    margin-bottom: 12px;
+}
+
+.parta h4, .partb h4 {
+    margin-bottom: 10px;
+}
+
+.parta .row, .partb .row {
+    margin-bottom: 5px;
+}
